@@ -1,1 +1,3 @@
 Also some common text file2.txt
+Some changes to the file1.
+Adding some additional text to file1.
