@@ -1,2 +1,4 @@
 Some text in file2
 Adding some content in file2.
+
+Adding extra empty line and some unnecessary spaces.    
