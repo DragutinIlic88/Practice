@@ -1,2 +1,3 @@
 some text of featureB.
 new commit for featureB.
+First commit in newBranch.
