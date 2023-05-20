@@ -2,3 +2,7 @@ Some text in file2
 Adding some content in file2.
 
 Adding extra empty line and some unnecessary spaces.    
+
+Adding some text which will be searchded with grep command.
+Grep command searches through any commited tree, the working directory  or even the index
+for a string or regular expression.
