@@ -1,2 +1,5 @@
 some text of featureB.
 new commit for featureB.
+
+
+Text for the first commit which will be removed.
