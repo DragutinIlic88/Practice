@@ -1,1 +1,8 @@
 Adding some text inside of the file.
+
+Addding some text for excersiseing interactive staging.
+So I can become professional in git.
+I need to know how to stage parts of some file.
+
+As another commit I would like to know how to do this.
+Tell me something about yourself?
