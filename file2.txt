@@ -1,4 +1,5 @@
-Some text in file2
-Adding some content in file2.
+Some text added as first line.
+Some text in file2 augmented with little more words.
+Adding modified content in file2.
 
 Adding extra empty line and some unnecessary spaces.    
