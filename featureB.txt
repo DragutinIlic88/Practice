@@ -2,4 +2,3 @@ some text of featureB.
 new commit for featureB.
 Adding new text which will be part of the main branch.
 Something more little bit.
-First commit in newBranch.
