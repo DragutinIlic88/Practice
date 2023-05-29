@@ -1,5 +1,1 @@
 Some new text for old commit
-First part which will be one commit.
-
-Some text which will be part of the next commit.\
-This line also.
