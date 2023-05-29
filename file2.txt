@@ -3,3 +3,4 @@ Some text in file2 augmented with little more words.
 Adding modified content in file2.
 
 Adding extra empty line and some unnecessary spaces.    
+Adding some text to branch newBranch.
