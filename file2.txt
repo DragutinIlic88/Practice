@@ -1,3 +1,5 @@
+Added first line,
+and second line.
 Some text added as first line.
 Some text in file2 augmented with little more words.
 Adding modified content in file2.
