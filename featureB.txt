@@ -3,3 +3,6 @@ new commit for featureB.
 
 
 Text for the first commit which will be removed.
+Adding new text which will be part of the main branch.
+Something more little bit.
+First commit in newBranch.

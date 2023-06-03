@@ -1,7 +1,11 @@
-Some text in file2
-Adding some content in file2.
+Added first line,
+and second line.
+Some text added as first line.
+Some text in file2 augmented with little more words.
+Adding modified content in file2.
 
 Adding extra empty line and some unnecessary spaces.    
+Adding some text to branch newBranch.
 
 Adding some text which will be searchded with grep command.
 Grep command searches through any commited tree, the working directory  or even the index
